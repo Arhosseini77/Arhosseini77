@@ -1,4 +1,4 @@
-[![Arhosseini77's github stats](https://github-readme-stats.vercel.app/api?username=Arhosseini77&theme=prussian)](https://github.com/Arhosseini77)
+[![Arhosseini77's github stats](https://github-readme-stats.vercel.app/api?username=Arhosseini77&theme=light&include_all_commits=true&count_private=true)](https://github.com/Arhosseini77)
 
 - 👋 Hi, I’m Alireza Hosseini (@Arhosseini77)
 - 👀 I’m interested in Signal Processing, Machine Learning, Deep Learning, and Computer Vision.
