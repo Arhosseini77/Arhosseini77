@@ -1,5 +1,6 @@
 name: Generate Snake
 
+# Controls when the action will run. This action runs daily at midnight UTC.
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
@@ -16,7 +17,7 @@ jobs:
 
       # Step 2: Generate the Snake GIF and SVG
       - name: Generate Snake
-        uses: Platane/snk@v1.0.0 # Use a specific version
+        uses: Platane/snk@v0.3.1 # Use the correct existing version
         with:
           github_user_name: Arhosseini77
           gif_out_path: dist/github-contribution-grid-snake.gif
@@ -36,7 +37,7 @@ jobs:
 
       # Step 5: Push the changes to master
       - name: Push Changes
-        uses: ad-m/github-push-action@v0.6.0 # Use a specific version
+        uses: ad-m/github-push-action@v0.6.0 # Ensure this version exists or update accordingly
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
@@ -44,7 +45,7 @@ jobs:
 
       # Step 6: Deploy to GitHub Pages (output branch)
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4.1.2 # Use a specific version
+        uses: crazy-max/ghaction-github-pages@v4.1.1 # Use the correct existing version
         with:
           target_branch: output
           build_dir: dist
