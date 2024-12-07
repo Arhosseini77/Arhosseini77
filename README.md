@@ -45,6 +45,9 @@
 </p>
 
 
+<div align="center">
+
+
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Arhosseini77/snk/output/github-contribution-grid-snake.svg)
 
 
