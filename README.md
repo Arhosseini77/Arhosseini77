@@ -1,6 +1,8 @@
-[![Arhosseini77's github stats](https://github-readme-stats.vercel.app/api?username=Arhosseini77&theme=light)](https://github.com/Arhosseini77)
+# Welcome to My GitHub Profile! 🚀
 
-- 👋 Hi, I’m Alireza Hosseini (@Arhosseini77)
+## 🌟 About Me
+
+- 👋 I’m Alireza Hosseini (@Arhosseini77)
 - 👀 I’m interested in Signal Processing, Machine Learning, Deep Learning, and Computer Vision.
 - 🌱 I’m currently studying Master of Science in Telecommunication Systems at the University of Tehran.
 - 💼 I am an AI developer at [Avir](https://avir.co.com).
@@ -8,9 +10,9 @@
 - 📫 How to reach me:
   - Email: [arhosseini77@ut.ac.ir](mailto:arhosseini77@ut.ac.ir)
   - Telegram: [@arhosseini_77](https://t.me/arhosseini_77)
+- 📄 [Download My Resume](https://arhosseini77.github.io/assets/ARH_CV.pdf)
 
-
-<h3 align="left">Languages and Tools:</h3>
+## 🔧 Languages and Tools
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -45,10 +47,19 @@
 </p>
 
 
-<div align="center">
+
+## 📈 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arhosseini77&show_icons=true&hide=stars&theme=radical)
+
+
+
+## 🐍 Contributions
 
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Arhosseini77/snk/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 <!---
