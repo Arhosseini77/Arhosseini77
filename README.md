@@ -4,7 +4,7 @@
 
 - 👋 I’m Alireza Hosseini (@Arhosseini77)
 - 👀 I’m interested in Signal Processing, Machine Learning, Deep Learning, and Computer Vision.
-- 🌱 I’m currently studying Master of Science in Telecommunication Systems at the University of Tehran.
+- 🎓 I hold a Master of Science in Telecommunication Systems from the University of Tehran (Graduated September 2024).
 - 💼 I am an AI developer at [Avir](https://avir.co.com).
 - 🌐 Check out my GitHub IO page: [Arhosseini77.github.io](https://arhosseini77.github.io)
 - 📫 How to reach me:
