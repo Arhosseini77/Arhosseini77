@@ -53,6 +53,13 @@
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Arhosseini77/snk/output/github-contribution-grid-snake.svg)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Arhosseini77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
